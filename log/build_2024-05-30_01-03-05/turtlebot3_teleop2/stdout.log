@@ -1,0 +1,43 @@
+running egg_info
+creating build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info
+writing build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/PKG-INFO
+writing dependency_links to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/dependency_links.txt
+writing entry points to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/entry_points.txt
+writing requirements to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/requires.txt
+writing top-level names to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/top_level.txt
+writing manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+reading manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+writing manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+copying turtlebot3_teleop2/stop_robot_client.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+copying turtlebot3_teleop2/__init__.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+copying turtlebot3_teleop2/teleop.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+copying turtlebot3_teleop2/sender.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+running install
+running install_lib
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/stop_robot_client.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/__init__.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/teleop.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/sender.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/stop_robot_client.py to stop_robot_client.cpython-310.pyc
+byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/teleop.py to teleop.cpython-310.pyc
+byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/sender.py to sender.cpython-310.pyc
+running install_data
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index
+creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index/packages
+copying resource/turtlebot3_teleop2 -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index/packages
+copying package.xml -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/turtlebot3_teleop2
+running install_egg_info
+Copying build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing stop_robot_client script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+Installing teleop script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+Installing webcan_publisher script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+writing list of installed files to '/home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/install.log'

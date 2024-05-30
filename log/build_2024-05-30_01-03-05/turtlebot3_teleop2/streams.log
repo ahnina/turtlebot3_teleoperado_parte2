@@ -1,0 +1,45 @@
+[2.783s] Invoking command in '/home/ana/meu_workspace/src/turtlebot3_teleop2': PYTHONPATH=/home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/prefix_override:/home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_teleop2 build --build-base /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build install --record /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/install.log --single-version-externally-managed install_data
+[2.992s] running egg_info
+[2.992s] creating build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info
+[2.993s] writing build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/PKG-INFO
+[2.993s] writing dependency_links to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/dependency_links.txt
+[2.993s] writing entry points to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/entry_points.txt
+[2.993s] writing requirements to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/requires.txt
+[2.993s] writing top-level names to build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/top_level.txt
+[2.993s] writing manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+[2.995s] reading manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+[2.996s] writing manifest file 'build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info/SOURCES.txt'
+[2.996s] running build
+[2.996s] running build_py
+[2.996s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build
+[2.996s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib
+[2.996s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+[2.996s] copying turtlebot3_teleop2/stop_robot_client.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+[2.996s] copying turtlebot3_teleop2/__init__.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+[2.996s] copying turtlebot3_teleop2/teleop.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+[2.996s] copying turtlebot3_teleop2/sender.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2
+[2.996s] running install
+[2.997s] running install_lib
+[2.997s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+[2.997s] copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/stop_robot_client.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+[2.997s] copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/__init__.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+[2.997s] copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/teleop.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+[2.998s] copying /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build/lib/turtlebot3_teleop2/sender.py -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2
+[2.998s] byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/stop_robot_client.py to stop_robot_client.cpython-310.pyc
+[2.998s] byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/__init__.py to __init__.cpython-310.pyc
+[2.999s] byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/teleop.py to teleop.cpython-310.pyc
+[3.000s] byte-compiling /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2/sender.py to sender.cpython-310.pyc
+[3.000s] running install_data
+[3.000s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index
+[3.000s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index
+[3.000s] creating /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index/packages
+[3.000s] copying resource/turtlebot3_teleop2 -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/ament_index/resource_index/packages
+[3.000s] copying package.xml -> /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/share/turtlebot3_teleop2
+[3.000s] running install_egg_info
+[3.002s] Copying build/turtlebot3_teleop2/turtlebot3_teleop2.egg-info to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages/turtlebot3_teleop2-0.0.0-py3.10.egg-info
+[3.003s] running install_scripts
+[3.021s] Installing stop_robot_client script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+[3.021s] Installing teleop script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+[3.021s] Installing webcan_publisher script to /home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/turtlebot3_teleop2
+[3.021s] writing list of installed files to '/home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/install.log'
+[3.045s] Invoked command in '/home/ana/meu_workspace/src/turtlebot3_teleop2' returned '0': PYTHONPATH=/home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/prefix_override:/home/ana/meu_workspace/src/turtlebot3_teleop2/install/turtlebot3_teleop2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_teleop2 build --build-base /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/build install --record /home/ana/meu_workspace/src/turtlebot3_teleop2/build/turtlebot3_teleop2/install.log --single-version-externally-managed install_data

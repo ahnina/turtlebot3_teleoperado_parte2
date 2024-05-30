@@ -1,0 +1,5 @@
+[console_scripts]
+stop_robot_client = turtlebot3_teleop2.stop_robot_client:main
+teleop = turtlebot3_teleo2p.teleop:main
+webcan_publisher = turtlebot3_teleop2.sender:main
+
